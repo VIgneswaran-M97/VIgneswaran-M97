@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Scientist
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Instgram ID: @joker_vicky_
 
 <!---
 VIgneswaran-M97/VIgneswaran-M97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VIgneswaran-M97
+- 👋 Hi, I’m @Vigneswaran-M97
 - 👀 I’m interested in ... Data Scientist
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...
